@@ -1,0 +1,4 @@
+model.save("keras_model.keras")
+# Load later with:
+from tensorflow.keras.models import load_model
+m = load_model("keras_model.keras")

@@ -1,0 +1,1982 @@
+position_batting,player,matches_batting,innings_x,runs_batting,average_x,strike_rate_x,fours_x,sixes_x,position_bowling,matches_bowling,overs_x,balls_x,wickets_x,economy_x,runs_bowling,position_x,batsman,matches_x,innings_y,runs_x,average_y,strike_rate_y,fours_y,sixes_y,position_y,bowler,matches_y,overs_y,balls_y,wickets_y,economy_y,runs_y,team,year,player_name
+1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,,Afghanistan,2021.0,Rahmanullah Gurbaz
+1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,,Afghanistan,2022.0,Rahmanullah Gurbaz
+1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,1.0,Rahmanullah Gurbaz,8.0,8.0,281.0,35.12,124.34,18.0,16.0,,,,,,,,,Afghanistan,2024.0,Rahmanullah Gurbaz
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2007.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2009.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2010.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2012.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2014.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2016.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2021.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2022.0,Rohit Sharma
+2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,2.0,Rohit Sharma,8.0,8.0,257.0,36.71,156.71,24.0,15.0,,,,,,,,,India,2024.0,Rohit Sharma
+3.0,Travis Head,7.0,7.0,255.0,42.5,158.39,26.0,15.0,,,,,,,,3.0,Travis Head,7.0,7.0,255.0,42.5,158.39,26.0,15.0,,,,,,,,,Australia,2024.0,Travis Head
+4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,,South Africa,2014.0,Quinton de Kock
+4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,,South Africa,2016.0,Quinton de Kock
+4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,,South Africa,2021.0,Quinton de Kock
+4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,,South Africa,2022.0,Quinton de Kock
+4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,4.0,Quinton de Kock,9.0,9.0,243.0,27.0,140.46,21.0,13.0,,,,,,,,,South Africa,2024.0,Quinton de Kock
+5.0,Ibrahim Zadran,8.0,8.0,231.0,28.88,107.44,25.0,4.0,,,,,,,,5.0,Ibrahim Zadran,8.0,8.0,231.0,28.88,107.44,25.0,4.0,,,,,,,,,Afghanistan,2022.0,Ibrahim Zadran
+5.0,Ibrahim Zadran,8.0,8.0,231.0,28.88,107.44,25.0,4.0,,,,,,,,5.0,Ibrahim Zadran,8.0,8.0,231.0,28.88,107.44,25.0,4.0,,,,,,,,,Afghanistan,2024.0,Ibrahim Zadran
+6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,,West Indies,2021.0,Nicholas Pooran
+6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,,West Indies,2022.0,Nicholas Pooran
+6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,6.0,Nicholas Pooran,7.0,7.0,228.0,38.0,146.15,15.0,17.0,,,,,,,,,West Indies,2024.0,Nicholas Pooran
+7.0,Andries Gous,6.0,6.0,219.0,43.8,151.03,20.0,11.0,,,,,,,,7.0,Andries Gous,6.0,6.0,219.0,43.8,151.03,20.0,11.0,,,,,,,,,United States of America,2024.0,Andries Gous
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2012.0,Jos Buttler
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2014.0,Jos Buttler
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2016.0,Jos Buttler
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2021.0,Jos Buttler
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2022.0,Jos Buttler
+8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,8.0,Jos Buttler,8.0,7.0,214.0,42.8,158.52,22.0,10.0,,,,,,,,,England,2024.0,Jos Buttler
+9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,,India,2021.0,Suryakumar Yadav
+9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,,India,2022.0,Suryakumar Yadav
+9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,9.0,Suryakumar Yadav,8.0,8.0,199.0,28.43,135.37,15.0,10.0,,,,,,,,,India,2024.0,Suryakumar Yadav
+10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,,South Africa,2021.0,Heinrich Klaasen
+10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,,South Africa,2022.0,Heinrich Klaasen
+10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,10.0,Heinrich Klaasen,9.0,8.0,190.0,31.67,126.67,9.0,13.0,,,,,,,,,South Africa,2024.0,Heinrich Klaasen
+11.0,Philip Salt,8.0,7.0,188.0,37.6,159.32,16.0,10.0,,,,,,,,11.0,Philip Salt,8.0,7.0,188.0,37.6,159.32,16.0,10.0,,,,,,,,,,,
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2009.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2010.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2012.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2014.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2016.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2021.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2022.0,David Warner
+12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,12.0,David Warner,7.0,7.0,178.0,29.67,139.06,17.0,9.0,,,,,,,,,Australia,2024.0,David Warner
+13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,,India,2021.0,Rishabh Pant
+13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,,India,2022.0,Rishabh Pant
+13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,13.0,Rishabh Pant,8.0,8.0,171.0,24.43,127.61,19.0,6.0,,,,,,,,,India,2024.0,Rishabh Pant
+14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,,South Africa,2014.0,David Miller
+14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,,South Africa,2016.0,David Miller
+14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,,South Africa,2021.0,David Miller
+14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,,South Africa,2022.0,David Miller
+14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,14.0,David Miller,9.0,8.0,169.0,28.17,102.42,10.0,8.0,,,,,,,,,South Africa,2024.0,David Miller
+15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,,Australia,2021.0,Marcus Stoinis
+15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,,Australia,2022.0,Marcus Stoinis
+15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,15.0,Marcus Stoinis,7.0,5.0,169.0,42.25,164.08,14.0,10.0,,,,,,,,,Australia,2024.0,Marcus Stoinis
+,Fazalhaq Farooqi,,,,,,,,1.0,8.0,25.2,152.0,17.0,9.41,160.0,,,,,,,,,,1.0,Fazalhaq Farooqi,8.0,25.2,152.0,17.0,9.41,160.0,Afghanistan,2022.0,Fazalhaq Farooqi
+,Fazalhaq Farooqi,,,,,,,,1.0,8.0,25.2,152.0,17.0,9.41,160.0,,,,,,,,,,1.0,Fazalhaq Farooqi,8.0,25.2,152.0,17.0,9.41,160.0,Afghanistan,2024.0,Fazalhaq Farooqi
+,Arshdeep Singh,,,,,,,,2.0,8.0,30.0,180.0,17.0,12.65,215.0,,,,,,,,,,2.0,Arshdeep Singh,8.0,30.0,180.0,17.0,12.65,215.0,India,2022.0,Arshdeep Singh
+,Arshdeep Singh,,,,,,,,2.0,8.0,30.0,180.0,17.0,12.65,215.0,,,,,,,,,,2.0,Arshdeep Singh,8.0,30.0,180.0,17.0,12.65,215.0,India,2024.0,Arshdeep Singh
+,Jasprit Bumrah,,,,,,,,3.0,8.0,29.4,178.0,15.0,8.27,124.0,,,,,,,,,,3.0,Jasprit Bumrah,8.0,29.4,178.0,15.0,8.27,124.0,India,2016.0,Jasprit Bumrah
+,Jasprit Bumrah,,,,,,,,3.0,8.0,29.4,178.0,15.0,8.27,124.0,,,,,,,,,,3.0,Jasprit Bumrah,8.0,29.4,178.0,15.0,8.27,124.0,India,2021.0,Jasprit Bumrah
+,Jasprit Bumrah,,,,,,,,3.0,8.0,29.4,178.0,15.0,8.27,124.0,,,,,,,,,,3.0,Jasprit Bumrah,8.0,29.4,178.0,15.0,8.27,124.0,India,2024.0,Jasprit Bumrah
+,Anrich Nortje,,,,,,,,4.0,9.0,35.0,210.0,15.0,13.4,201.0,,,,,,,,,,4.0,Anrich Nortje,9.0,35.0,210.0,15.0,13.4,201.0,South Africa,2021.0,Anrich Nortje
+,Anrich Nortje,,,,,,,,4.0,9.0,35.0,210.0,15.0,13.4,201.0,,,,,,,,,,4.0,Anrich Nortje,9.0,35.0,210.0,15.0,13.4,201.0,South Africa,2022.0,Anrich Nortje
+,Anrich Nortje,,,,,,,,4.0,9.0,35.0,210.0,15.0,13.4,201.0,,,,,,,,,,4.0,Anrich Nortje,9.0,35.0,210.0,15.0,13.4,201.0,South Africa,2024.0,Anrich Nortje
+,Rashid Khan,,,,,,,,5.0,8.0,29.0,174.0,14.0,12.79,179.0,,,,,,,,,,5.0,Rashid Khan,8.0,29.0,174.0,14.0,12.79,179.0,Afghanistan,2016.0,Rashid Khan
+,Rashid Khan,,,,,,,,5.0,8.0,29.0,174.0,14.0,12.79,179.0,,,,,,,,,,5.0,Rashid Khan,8.0,29.0,174.0,14.0,12.79,179.0,Afghanistan,2021.0,Rashid Khan
+,Rashid Khan,,,,,,,,5.0,8.0,29.0,174.0,14.0,12.79,179.0,,,,,,,,,,5.0,Rashid Khan,8.0,29.0,174.0,14.0,12.79,179.0,Afghanistan,2022.0,Rashid Khan
+,Rashid Khan,,,,,,,,5.0,8.0,29.0,174.0,14.0,12.79,179.0,,,,,,,,,,5.0,Rashid Khan,8.0,29.0,174.0,14.0,12.79,179.0,Afghanistan,2024.0,Rashid Khan
+,Rishad Hossain,,,,,,,,6.0,7.0,25.0,150.0,14.0,13.86,194.0,,,,,,,,,,6.0,Rishad Hossain,7.0,25.0,150.0,14.0,13.86,194.0,Bangladesh,2024.0,Rishad Hossain
+,Naveen-ul-Haq,,,,,,,,7.0,8.0,26.4,160.0,13.0,12.31,160.0,,,,,,,,,,7.0,Naveen-ul-Haq,8.0,26.4,160.0,13.0,12.31,160.0,Afghanistan,2021.0,Naveen-ul-Haq
+,Naveen-ul-Haq,,,,,,,,7.0,8.0,26.4,160.0,13.0,12.31,160.0,,,,,,,,,,7.0,Naveen-ul-Haq,8.0,26.4,160.0,13.0,12.31,160.0,Afghanistan,2022.0,Naveen-ul-Haq
+,Naveen-ul-Haq,,,,,,,,7.0,8.0,26.4,160.0,13.0,12.31,160.0,,,,,,,,,,7.0,Naveen-ul-Haq,8.0,26.4,160.0,13.0,12.31,160.0,Afghanistan,2024.0,Naveen-ul-Haq
+,Kagiso Rabada,,,,,,,,8.0,9.0,31.0,186.0,13.0,15.0,195.0,,,,,,,,,,8.0,Kagiso Rabada,9.0,31.0,186.0,13.0,15.0,195.0,South Africa,2016.0,Kagiso Rabada
+,Kagiso Rabada,,,,,,,,8.0,9.0,31.0,186.0,13.0,15.0,195.0,,,,,,,,,,8.0,Kagiso Rabada,9.0,31.0,186.0,13.0,15.0,195.0,South Africa,2021.0,Kagiso Rabada
+,Kagiso Rabada,,,,,,,,8.0,9.0,31.0,186.0,13.0,15.0,195.0,,,,,,,,,,8.0,Kagiso Rabada,9.0,31.0,186.0,13.0,15.0,195.0,South Africa,2022.0,Kagiso Rabada
+,Kagiso Rabada,,,,,,,,8.0,9.0,31.0,186.0,13.0,15.0,195.0,,,,,,,,,,8.0,Kagiso Rabada,9.0,31.0,186.0,13.0,15.0,195.0,South Africa,2024.0,Kagiso Rabada
+,Adam Zampa,,,,,,,,9.0,7.0,28.0,168.0,13.0,14.38,187.0,,,,,,,,,,9.0,Adam Zampa,7.0,28.0,168.0,13.0,14.38,187.0,Australia,2016.0,Adam Zampa
+,Adam Zampa,,,,,,,,9.0,7.0,28.0,168.0,13.0,14.38,187.0,,,,,,,,,,9.0,Adam Zampa,7.0,28.0,168.0,13.0,14.38,187.0,Australia,2021.0,Adam Zampa
+,Adam Zampa,,,,,,,,9.0,7.0,28.0,168.0,13.0,14.38,187.0,,,,,,,,,,9.0,Adam Zampa,7.0,28.0,168.0,13.0,14.38,187.0,Australia,2022.0,Adam Zampa
+,Adam Zampa,,,,,,,,9.0,7.0,28.0,168.0,13.0,14.38,187.0,,,,,,,,,,9.0,Adam Zampa,7.0,28.0,168.0,13.0,14.38,187.0,Australia,2024.0,Adam Zampa
+,Alzarri Joseph,,,,,,,,10.0,7.0,24.3,147.0,13.0,13.62,177.0,,,,,,,,,,10.0,Alzarri Joseph,7.0,24.3,147.0,13.0,13.62,177.0,West Indies,2022.0,Alzarri Joseph
+,Alzarri Joseph,,,,,,,,10.0,7.0,24.3,147.0,13.0,13.62,177.0,,,,,,,,,,10.0,Alzarri Joseph,7.0,24.3,147.0,13.0,13.62,177.0,West Indies,2024.0,Alzarri Joseph
+,Tanzim Hasan Sakib,,,,,,,,11.0,7.0,24.0,144.0,11.0,13.55,149.0,,,,,,,,,,11.0,Tanzim Hasan Sakib,7.0,24.0,144.0,11.0,13.55,149.0,Bangladesh,2024.0,Tanzim Hasan Sakib
+,Keshav Maharaj,,,,,,,,12.0,8.0,28.0,168.0,11.0,15.91,175.0,,,,,,,,,,12.0,Keshav Maharaj,8.0,28.0,168.0,11.0,15.91,175.0,South Africa,2021.0,Keshav Maharaj
+,Keshav Maharaj,,,,,,,,12.0,8.0,28.0,168.0,11.0,15.91,175.0,,,,,,,,,,12.0,Keshav Maharaj,8.0,28.0,168.0,11.0,15.91,175.0,South Africa,2022.0,Keshav Maharaj
+,Keshav Maharaj,,,,,,,,12.0,8.0,28.0,168.0,11.0,15.91,175.0,,,,,,,,,,12.0,Keshav Maharaj,8.0,28.0,168.0,11.0,15.91,175.0,South Africa,2024.0,Keshav Maharaj
+,Andre Russell,,,,,,,,13.0,7.0,20.1,121.0,11.0,12.82,141.0,,,,,,,,,,13.0,Andre Russell,7.0,20.1,121.0,11.0,12.82,141.0,West Indies,2012.0,Andre Russell
+,Andre Russell,,,,,,,,13.0,7.0,20.1,121.0,11.0,12.82,141.0,,,,,,,,,,13.0,Andre Russell,7.0,20.1,121.0,11.0,12.82,141.0,West Indies,2014.0,Andre Russell
+,Andre Russell,,,,,,,,13.0,7.0,20.1,121.0,11.0,12.82,141.0,,,,,,,,,,13.0,Andre Russell,7.0,20.1,121.0,11.0,12.82,141.0,West Indies,2016.0,Andre Russell
+,Andre Russell,,,,,,,,13.0,7.0,20.1,121.0,11.0,12.82,141.0,,,,,,,,,,13.0,Andre Russell,7.0,20.1,121.0,11.0,12.82,141.0,West Indies,2021.0,Andre Russell
+,Andre Russell,,,,,,,,13.0,7.0,20.1,121.0,11.0,12.82,141.0,,,,,,,,,,13.0,Andre Russell,7.0,20.1,121.0,11.0,12.82,141.0,West Indies,2024.0,Andre Russell
+,Tabraiz Shamsi,,,,,,,,14.0,5.0,16.5,101.0,11.0,11.64,128.0,,,,,,,,,,14.0,Tabraiz Shamsi,5.0,16.5,101.0,11.0,11.64,128.0,South Africa,2021.0,Tabraiz Shamsi
+,Tabraiz Shamsi,,,,,,,,14.0,5.0,16.5,101.0,11.0,11.64,128.0,,,,,,,,,,14.0,Tabraiz Shamsi,5.0,16.5,101.0,11.0,11.64,128.0,South Africa,2022.0,Tabraiz Shamsi
+,Tabraiz Shamsi,,,,,,,,14.0,5.0,16.5,101.0,11.0,11.64,128.0,,,,,,,,,,14.0,Tabraiz Shamsi,5.0,16.5,101.0,11.0,11.64,128.0,South Africa,2024.0,Tabraiz Shamsi
+,Hardik Pandya,,,,,,,,15.0,8.0,25.0,150.0,11.0,17.36,191.0,,,,,,,,,,15.0,Hardik Pandya,8.0,25.0,150.0,11.0,17.36,191.0,India,2016.0,Hardik Pandya
+,Hardik Pandya,,,,,,,,15.0,8.0,25.0,150.0,11.0,17.36,191.0,,,,,,,,,,15.0,Hardik Pandya,8.0,25.0,150.0,11.0,17.36,191.0,India,2021.0,Hardik Pandya
+,Hardik Pandya,,,,,,,,15.0,8.0,25.0,150.0,11.0,17.36,191.0,,,,,,,,,,15.0,Hardik Pandya,8.0,25.0,150.0,11.0,17.36,191.0,India,2022.0,Hardik Pandya
+,Hardik Pandya,,,,,,,,15.0,8.0,25.0,150.0,11.0,17.36,191.0,,,,,,,,,,15.0,Hardik Pandya,8.0,25.0,150.0,11.0,17.36,191.0,India,2024.0,Hardik Pandya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Nawroz Mangal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Nawroz Mangal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Nawroz Mangal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Asghar Afghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Asghar Afghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Asghar Afghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Asghar Afghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Karim Sadiq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Karim Sadiq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Karim Sadiq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Karim Sadiq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Mohammad Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Mohammad Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Mohammad Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Mohammad Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Mohammad Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Noor Ali Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Noor Ali Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Raees Ahmadzai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Shabir Noori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Shafiqullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Shafiqullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Shafiqullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Shafiqullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Mohammad Nabi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Samiullah Shinwari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Samiullah Shinwari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Samiullah Shinwari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Samiullah Shinwari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Dawlat Ahmadzai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Hamid Hassan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Hamid Hassan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Hamid Hassan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Hamid Hassan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Mirwais Ashraf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Mirwais Ashraf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Shapoor Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Shapoor Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Shapoor Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Shapoor Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2010.0,Sayed Nasratullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Javed Ahmadi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Najibullah Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Gulbadin Naib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Dawlat Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Dawlat Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Dawlat Zadran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Izatullah Dawlatzai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2012.0,Mohammad Nasim Baras
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Najeeb Tarakai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Amir Hamza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Amir Hamza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2014.0,Aftab Alam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2016.0,Usman Ghani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Usman Ghani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Usman Ghani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Hashmatullah Shahidi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Hazratullah Zazai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Hazratullah Zazai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Karim Janat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Karim Janat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Sharafuddin Ashraf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Fareed Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Fareed Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Fareed Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2021.0,Mujeeb Ur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Mujeeb Ur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Darwish Rasooli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Azmatullah Omarzai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Azmatullah Omarzai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Mohammad Saleem
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2022.0,Qais Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Mohammad Ishaq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Nangeyalia Kharote
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan,2024.0,Noor Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Adam Gilchrist
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Michael Clarke
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Michael Clarke
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Michael Clarke
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Brad Haddin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Brad Haddin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Brad Haddin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Brad Haddin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Matthew Hayden
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Brad Hodge
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Brad Hodge
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Michael Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Michael Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Michael Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Michael Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Brad Hogg
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Brad Hogg
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Brad Hogg
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Andrew Symonds
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Nathan Bracken
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Nathan Bracken
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Stuart Clark
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Ben Hilfenhaus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Ben Hilfenhaus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Ben Hilfenhaus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Mitchell Johnson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Mitchell Johnson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Mitchell Johnson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2007.0,Brett Lee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Brett Lee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Ricky Ponting
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Cameron White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Cameron White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Cameron White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Cameron White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,James Hopes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,David Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,David Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,David Hussey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Shane Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Shane Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Shane Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Shane Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Shane Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Nathan Hauritz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Nathan Hauritz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2009.0,Peter Siddle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Tim Paine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Steven Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Steven Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Steven Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Steven Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Dan Christian
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Dan Christian
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Dan Christian
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Dan Christian
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Ryan Harris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Dirk Nannes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Dirk Nannes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2010.0,Shaun Tait
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,George Bailey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,George Bailey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Matthew Wade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Matthew Wade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Matthew Wade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Matthew Wade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Glenn Maxwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Pat Cummins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Pat Cummins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Pat Cummins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Pat Cummins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Xavier Doherty
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Clint McKay
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2012.0,Mitchell Starc
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Mitchell Starc
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Mitchell Starc
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Mitchell Starc
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Mitchell Starc
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Aaron Finch
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Aaron Finch
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Aaron Finch
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Aaron Finch
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Nathan Coulter-Nile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Nathan Coulter-Nile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,James Faulkner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,James Faulkner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,Doug Bollinger
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2014.0,James Muirhead
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Usman Khawaja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Peter Nevill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,John Hastings
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Mitchell Marsh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Mitchell Marsh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Mitchell Marsh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Mitchell Marsh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Ashton Agar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Ashton Agar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Ashton Agar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Ashton Agar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Josh Hazlewood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Josh Hazlewood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Josh Hazlewood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Josh Hazlewood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2016.0,Andrew Tye
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Josh Inglis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Josh Inglis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Daniel Sams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Nathan Ellis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Nathan Ellis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Kane Richardson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Kane Richardson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2021.0,Mitchell Swepson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Tim David
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Tim David
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2022.0,Cameron Green
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Australia,2024.0,Cameron Green
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Mohammad Ashraful
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Mohammad Ashraful
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Mohammad Ashraful
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Mohammad Ashraful
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Aftab Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Aftab Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Zunaed Siddique
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Zunaed Siddique
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Zunaed Siddique
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Mushfiqur Rahim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Nadif Chowdhury
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Nazimuddin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Tamim Iqbal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Alok Kapali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Farhad Reza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Farhad Reza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Farhad Reza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Mahmudullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Shakib Al Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Ziaur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Ziaur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Ziaur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Mashrafe Mortaza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Mashrafe Mortaza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Mashrafe Mortaza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Mashrafe Mortaza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Mashrafe Mortaza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Abdur Razzak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Abdur Razzak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Abdur Razzak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Abdur Razzak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Abdur Razzak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2007.0,Syed Rasel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Syed Rasel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Syed Rasel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Mohammad Mithun
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Mohammad Mithun
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Raqibul Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Shamsur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Shamsur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Naeem Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Naeem Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Rubel Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Rubel Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Rubel Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2009.0,Shahadat Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Imrul Kayes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Jahurul Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Jahurul Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Shafiul Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Shafiul Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2010.0,Sohrawordi Shuvo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Nasir Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Nasir Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Nasir Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Abul Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2012.0,Elias Sunny
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Anamul Haque
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Mominul Haque
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Sabbir Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Sabbir Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Al-Amin Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Al-Amin Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Sohag Gazi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2014.0,Taskin Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Taskin Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Taskin Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Taskin Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Nurul Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Nurul Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Nurul Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Shuvagata Hom
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Soumya Sarkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Soumya Sarkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Soumya Sarkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Soumya Sarkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Abu Hider
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Mustafizur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Mustafizur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Mustafizur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Mustafizur Rahman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2016.0,Saqlain Sajib
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Litton Das
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Litton Das
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Litton Das
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Mohammad Naim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Afif Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Afif Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Mahedi Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Mahedi Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Shamim Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Nasum Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Nasum Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2021.0,Shoriful Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Shoriful Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Shoriful Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Mosaddek Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Najmul Hossain Shanto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Najmul Hossain Shanto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Yasir Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Mehidy Hasan Miraz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Ebadot Hossain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2022.0,Hasan Mahmud
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Jaker Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Tanzid Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Towhid Hridoy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh,2024.0,Tanvir Islam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Navneet Dhaliwal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Aaron Johnson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Shreyas Movva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Ravinderpal Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Saad Bin Zafar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Dilpreet Bajwa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Junaid Siddiqui
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Nicholas Kirton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Pargat Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Rayyan Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Nikhil Dutta
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Jeremy Gordon
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Dilon Heyliger
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Rishiv Joshi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canada,2024.0,Kaleem Sana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Kevin Pietersen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Kevin Pietersen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Kevin Pietersen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Matt Prior
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Owais Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Owais Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Vikram Solanki
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Luke Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Luke Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Luke Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Luke Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Paul Collingwood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Paul Collingwood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Paul Collingwood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Andrew Flintoff
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Darren Maddy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Dimitri Mascarenhas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Dimitri Mascarenhas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Chris Schofield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,James Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,James Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,James Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Stuart Broad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Stuart Broad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Stuart Broad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Stuart Broad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Stuart Broad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,James Kirtley
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Jeremy Snape
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2007.0,Chris Tremlett
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,James Foster
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Rob Key
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Eoin Morgan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Ravi Bopara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Ravi Bopara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Ravi Bopara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Ravi Bopara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Graham Napier
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Adil Rashid
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Adil Rashid
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Adil Rashid
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Adil Rashid
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Adil Rashid
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Ryan Sidebottom
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Ryan Sidebottom
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2009.0,Graeme Swann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Graeme Swann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Graeme Swann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Craig Kieswetter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Craig Kieswetter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Craig Kieswetter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Michael Lumb
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Michael Lumb
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Michael Lumb
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Tim Bresnan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Tim Bresnan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Tim Bresnan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,James Tredwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,James Tredwell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Michael Yardy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2010.0,Ajmal Shahzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Jonny Bairstow
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Jonny Bairstow
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Jonny Bairstow
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Alex Hales
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Alex Hales
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Alex Hales
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Alex Hales
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Samit Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Danny Briggs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Jade Dernbach
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Jade Dernbach
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2012.0,Steven Finn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Ian Bell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Moeen Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Moeen Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Moeen Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Moeen Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Moeen Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Chris Woakes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Chris Woakes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Chris Woakes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Chris Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Chris Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Chris Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Chris Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Chris Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2014.0,Stephen Parry
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Sam Billings
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Sam Billings
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Joe Root
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Jason Roy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,James Vince
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,James Vince
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Liam Dawson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Ben Stokes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Ben Stokes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,David Willey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,David Willey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,David Willey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Liam Plunkett
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2016.0,Reece Topley
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Reece Topley
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Reece Topley
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Dawid Malan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Dawid Malan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Tom Curran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Liam Livingstone
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Liam Livingstone
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Liam Livingstone
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2021.0,Mark Wood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Mark Wood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Mark Wood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Harry Brook
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Harry Brook
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Phil Salt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Phil Salt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Sam Curran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Sam Curran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2022.0,Tymal Mills
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Ben Duckett
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Will Jacks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Jofra Archer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,2024.0,Tom Hartley
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Jamie Atkinson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Jamie Atkinson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Waqas Barkat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Waqas Barkat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Babar Hayat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Babar Hayat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Kinchit Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Kinchit Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Aizaz Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Aizaz Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Mark Chapman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Mark Chapman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Mark Chapman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Mark Chapman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Mark Chapman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Irfan Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Roy Lamsam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Munir Dar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Najeeb Amar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Nizakat Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Nizakat Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Tanwir Afzal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Tanwir Afzal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Ehsan Nawaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Haseeb Amjad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Haseeb Amjad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2014.0,Nadeem Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Nadeem Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Waqas Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Anshy Rath
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Ryan Campbell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Christopher Carter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hong Kong,2016.0,Adil Mehmood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,MS Dhoni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Yuvraj Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Yuvraj Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Yuvraj Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Yuvraj Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Yuvraj Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Gautam Gambhir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Gautam Gambhir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Gautam Gambhir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Gautam Gambhir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Dinesh Karthik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Dinesh Karthik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Dinesh Karthik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Dinesh Karthik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Virender Sehwag
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Virender Sehwag
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Robin Uthappa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Piyush Chawla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Piyush Chawla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Piyush Chawla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Joginder Sharma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Yusuf Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Yusuf Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Yusuf Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Irfan Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Irfan Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Irfan Pathan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Ajit Agarkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Harbhajan Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Harbhajan Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Harbhajan Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Harbhajan Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Harbhajan Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,RP Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,RP Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2007.0,Sreesanth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Suresh Raina
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Suresh Raina
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Suresh Raina
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Suresh Raina
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Suresh Raina
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Ravindra Jadeja
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Zaheer Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Zaheer Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Zaheer Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Praveen Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Pragyan Ojha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2009.0,Ishant Sharma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Murali Vijay
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Ashish Nehra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Ashish Nehra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Vinay Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2010.0,Umesh Yadav
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Virat Kohli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Manoj Tiwary
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Ravichandran Ashwin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Ravichandran Ashwin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Ravichandran Ashwin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Ravichandran Ashwin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Ravichandran Ashwin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Lakshmipathy Balaji
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2012.0,Ashok Dinda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Shikhar Dhawan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Shikhar Dhawan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Ajinkya Rahane
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Ajinkya Rahane
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Stuart Binny
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Varun Aaron
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Bhuvneshwar Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Bhuvneshwar Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Bhuvneshwar Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Amit Mishra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Mohammed Shami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Mohammed Shami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Mohammed Shami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Mohammed Shami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2014.0,Mohit Sharma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Manish Pandey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2016.0,Pawan Negi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Ishan Kishan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,KL Rahul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,KL Rahul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Rahul Chahar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Shardul Thakur
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2021.0,Varun Chakravarthy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Deepak Hooda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Axar Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Axar Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Yuzvendra Chahal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Yuzvendra Chahal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2022.0,Harshal Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Yashasvi Jaiswal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Sanju Samson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Shivam Dube
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Kuldeep Yadav
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,India,2024.0,Mohammed Siraj
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Tanmay Mishra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Alex Obanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,David Obuya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Morris Ouma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Steve Tikolo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Collins Obuya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Thomas Odoyo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Tony Suji
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Rajesh Bhudia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Jimmy Kamande
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Nehemiah Odhiambo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Peter Ongondo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Lameck Onyango
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Elijah Otieno
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kenya,2007.0,Hiren Varaiya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,William Porterfield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,William Porterfield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,William Porterfield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,William Porterfield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,William Porterfield
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Niall O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Niall O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Niall O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Niall O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Niall O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Gary Wilson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Gary Wilson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Gary Wilson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Gary Wilson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Gary Wilson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Andre Botha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Andre Botha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Kyle McCallan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,John Mooney
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,John Mooney
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Kevin O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Paul Stirling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Andrew White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Andrew White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Andrew White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Peter Connell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Peter Connell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Alex Cusack
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Alex Cusack
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Alex Cusack
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Alex Cusack
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Trent Johnston
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Trent Johnston
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Trent Johnston
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Boyd Rankin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Boyd Rankin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Boyd Rankin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Boyd Rankin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Regan West
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2009.0,Jeremy Bray
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,George Dockrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Nigel Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Nigel Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2010.0,Gary Kidd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Ed Joyce
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Ed Joyce
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Tim Murtagh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Tim Murtagh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Tim Murtagh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Max Sorensen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Max Sorensen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Max Sorensen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2012.0,Stuart Thompson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Stuart Thompson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Stuart Thompson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Andrew Poynter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Andrew Poynter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,James Shannon
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Andy McBrine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Andy McBrine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Andy McBrine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2014.0,Craig Young
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Craig Young
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Craig Young
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Craig Young
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Andy Balbirnie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Andy Balbirnie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Andy Balbirnie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Andy Balbirnie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2016.0,Stuart Poynter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Neil Rock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Neil Rock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Harry Tector
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Harry Tector
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Harry Tector
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Lorcan Tucker
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Lorcan Tucker
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Lorcan Tucker
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Mark Adair
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Mark Adair
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Mark Adair
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Curtis Campher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Curtis Campher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Curtis Campher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Gareth Delany
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Gareth Delany
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Gareth Delany
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Simi Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Simi Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Josh Little
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Josh Little
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Josh Little
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2021.0,Ben White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Ben White
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Stephen Doheny
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Fionn Hand
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Graham Hume
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Graham Hume
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Barry McCarthy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Barry McCarthy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2022.0,Conor Olphert
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland,2024.0,Ross Adair
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Stephan Baard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Stephan Baard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Karl Birkenstock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Karl Birkenstock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Michau du Preez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Zane Green
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Zane Green
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Zane Green
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Craig Williams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Pikky Ya France
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Pikky Ya France
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Gerhard Erasmus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Gerhard Erasmus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Gerhard Erasmus
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,JJ Smit
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,JJ Smit
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,JJ Smit
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Jan Frylinck
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Jan Frylinck
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Jan Frylinck
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Jan Nicol Loftie-Eaton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Jan Nicol Loftie-Eaton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Michael van Lingen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Michael van Lingen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Michael van Lingen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,David Wiese
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,David Wiese
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,David Wiese
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,David Wiese
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Bernard Scholtz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Bernard Scholtz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Bernard Scholtz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Ben Shikongo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Ben Shikongo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Ben Shikongo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2021.0,Ruben Trumpelmann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Ruben Trumpelmann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Ruben Trumpelmann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Divan la Cock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Lo-handre Louwrens
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2022.0,Tangeni Lungameni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Tangeni Lungameni
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Nikolaas Davin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,JP Kotze
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Malan Kruger
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Dylan Leicher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Peter-Daniel Blignaut
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namibia,2024.0,Jack Brassell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Pradeep Airee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Binod Bhandari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Naresh Budayair
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Subash Khakurel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Gyanendra Malla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Anil Mandal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Sagar Pun
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Sharad Vesawkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Paras Khadka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Sompal Kami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Sompal Kami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Amrit Bhattarai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Shakti Gauchan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Jitendra Mukhiya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Basant Regmi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2014.0,Rahul Vishwakarma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Aasif Sheikh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Dipendra Singh Airee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Kushal Bhurtel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Sundeep Jora
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Anil Sah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Rohit Paudel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Gulsan Jha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Karan KC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Kushal Malla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Kamal Airee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Abinash Bohara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Sagar Dhakal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Sandeep Lamichhane
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal,2024.0,Lalit Rajbanshi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Jeroen Smits
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Tom de Grooth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Tim Gruijters
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Alexei Kervezee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Darron Reekers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Eric Szwarczynski
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Eric Szwarczynski
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Bas Zuiderent
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Peter Borren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Peter Borren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Peter Borren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Mudassar Bukhari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Mudassar Bukhari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Mudassar Bukhari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Pieter Seelaar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Pieter Seelaar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Pieter Seelaar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Pieter Seelaar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Ryan ten Doeschate
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Ryan ten Doeschate
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Daan van Bunge
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Maurits Jonkman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2009.0,Edgar Schiferli
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Wesley Barresi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Wesley Barresi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Wesley Barresi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Tom Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Tom Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Tom Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Ben Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Ben Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Ben Cooper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Tom Heggelman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Stephan Myburgh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Stephan Myburgh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Stephan Myburgh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Stephan Myburgh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Michael Swart
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Michael Rippon
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Michael Rippon
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Ahsan Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Ahsan Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Vivian Kingma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Vivian Kingma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Vivian Kingma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Logan van Beek
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Logan van Beek
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Logan van Beek
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Logan van Beek
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Logan van Beek
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2014.0,Timm van der Gugten
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Timm van der Gugten
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Timm van der Gugten
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Timm van der Gugten
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Max O'Dowd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Max O'Dowd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Max O'Dowd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Max O'Dowd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Roelof van der Merwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Roelof van der Merwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Roelof van der Merwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Roelof van der Merwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Roelof van der Merwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2016.0,Paul van Meekeren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Paul van Meekeren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Paul van Meekeren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Paul van Meekeren
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Scott Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Scott Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Scott Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Colin Ackermann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Colin Ackermann
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Bas de Leede
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Bas de Leede
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Bas de Leede
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Philippe Boissevain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Brandon Glover
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Brandon Glover
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2021.0,Fred Klaassen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Fred Klaassen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Vikramjit Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Vikramjit Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Teja Nidamanuru
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Teja Nidamanuru
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Tim Pringle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Tim Pringle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2022.0,Shariz Ahmad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Michael Levitt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Sybrand Engelbrecht
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Saqib Zulfiqar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Aryan Dutt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands,2024.0,Kyle Klein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Peter Fulton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Gareth Hopkins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Gareth Hopkins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Brendon McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Brendon McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Brendon McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Brendon McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Brendon McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Craig McMillan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Ross Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Lou Vincent
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Daniel Vettori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Daniel Vettori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Daniel Vettori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Daniel Vettori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Jacob Oram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Jacob Oram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Jacob Oram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Jacob Oram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Scott Styris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Scott Styris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Scott Styris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Shane Bond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Shane Bond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Mark Gillespie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Chris Martin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Nathan McCullum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Jeetan Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2007.0,Bradley Scott
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Neil Broom
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Brendon Diamanti
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Martin Guptill
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Peter McGlashan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Aaron Redmond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Aaron Redmond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,James Franklin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,James Franklin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Ian Butler
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Ian Butler
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Kyle Mills
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Kyle Mills
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Kyle Mills
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Kyle Mills
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2009.0,Iain O'Brien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Rob Nicol
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Rob Nicol
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Jesse Ryder
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2010.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Tim Southee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,BJ Watling
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Kane Williamson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Doug Bracewell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Ronnie Hira
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Ronnie Hira
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2012.0,Adam Milne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Adam Milne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Adam Milne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Adam Milne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Anton Devcich
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Colin Munro
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Colin Munro
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Luke Ronchi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Luke Ronchi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Corey Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Corey Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Corey Anderson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,James Neesham
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,James Neesham
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,James Neesham
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,James Neesham
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Trent Boult
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Trent Boult
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Trent Boult
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Trent Boult
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Trent Boult
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2014.0,Mitchell McClenaghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Mitchell McClenaghan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Henry Nicholls
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Grant Elliott
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Mitchell Santner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Mitchell Santner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Mitchell Santner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Mitchell Santner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2016.0,Ish Sodhi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Ish Sodhi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Ish Sodhi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Ish Sodhi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Devon Conway
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Devon Conway
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Devon Conway
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Tim Seifert
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Daryl Mitchell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Daryl Mitchell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Daryl Mitchell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Glenn Phillips
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Glenn Phillips
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Glenn Phillips
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Todd Astle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2021.0,Kyle Jamieson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Finn Allen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Finn Allen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Michael Bracewell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Michael Bracewell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2022.0,Lockie Ferguson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Lockie Ferguson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Rachin Ravindra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand,2024.0,Matt Henry
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Sultan Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Aamir Kaleem
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Amir Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Jatinder Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Jatinder Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Khawar Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Khawar Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Mehran Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Mehran Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Vaibhav Wategaonkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Zeeshan Maqsood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Zeeshan Maqsood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Zeeshan Maqsood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Zeeshan Siddiqui
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Ajay Lalcheta
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Munis Ansari
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Bilal Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Bilal Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Bilal Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Rajeshkumar Ranpura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Sufyan Mehmood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Sufyan Mehmood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2016.0,Adnan Ilyas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Aqib Ilyas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Aqib Ilyas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Naseem Khushi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Naseem Khushi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Kashyap Prajapati
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Kashyap Prajapati
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Suraj Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Ayaan Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Ayaan Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Mohammad Nadeem
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Mohammad Nadeem
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Sandeep Goud
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Nestor Dhamba
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Fayyaz Butt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Fayyaz Butt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2021.0,Kaleemullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Kaleemullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Pratik Athavale
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Khalid Kail
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Shoaib Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Rafiullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oman,2024.0,Shakeel Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Fawad Alam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Fawad Alam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Fawad Alam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Imran Nazir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Imran Nazir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Kamran Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Kamran Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Kamran Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Kamran Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Kamran Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Misbah-ul-Haq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Misbah-ul-Haq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Misbah-ul-Haq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Salman Butt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Salman Butt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Salman Butt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Younis Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Younis Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Shoaib Malik
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Mohammad Hafeez
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Shahid Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Yasir Arafat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Yasir Arafat
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Abdur Rehman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Abdur Rehman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Iftikhar Anjum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Iftikhar Anjum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Mohammad Asif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Mohammad Asif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Sohail Tanvir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Sohail Tanvir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Sohail Tanvir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Sohail Tanvir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2007.0,Umar Gul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Umar Gul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Umar Gul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Umar Gul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Ahmed Shehzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Ahmed Shehzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Ahmed Shehzad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Shahzaib Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Abdul Razzaq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Abdul Razzaq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Abdul Razzaq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Mohammad Amir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Mohammad Amir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Mohammad Amir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Mohammad Amir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2009.0,Saeed Ajmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Saeed Ajmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Saeed Ajmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Saeed Ajmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Hammad Azam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Khalid Latif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Khalid Latif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Umar Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Umar Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Umar Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Umar Akmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2010.0,Mohammad Sami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Mohammad Sami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Mohammad Sami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Asad Shafiq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Nasir Jamshed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2012.0,Raza Hasan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Sharjeel Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Sharjeel Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Sohaib Maqsood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Bilawal Bhatti
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Junaid Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Mohammad Talha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2014.0,Zulfiqar Babar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Sarfaraz Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Sarfaraz Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Imad Wasim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Imad Wasim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Imad Wasim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Mohammad Nawaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Mohammad Nawaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Mohammad Nawaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Anwar Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Mohammad Irfan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2016.0,Wahab Riaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Babar Azam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Babar Azam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Babar Azam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Asif Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Asif Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Fakhar Zaman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Fakhar Zaman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Haider Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Haider Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Mohammad Rizwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Mohammad Rizwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Mohammad Rizwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Shadab Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Shadab Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Shadab Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Mohammad Wasim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Mohammad Wasim
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Haris Rauf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Haris Rauf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Haris Rauf
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Hasan Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2021.0,Shaheen Shah Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Shaheen Shah Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Shaheen Shah Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Iftikhar Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Iftikhar Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Khushdil Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Mohammad Haris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Shan Masood
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Mohammad Hasnain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2022.0,Naseem Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Naseem Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Azam Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Saim Ayub
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Usman Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Abbas Afridi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan,2024.0,Abrar Ahmed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Assad Vala
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Assad Vala
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Simon Atai
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Sese Bau
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Sese Bau
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Kiplin Doriga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Kiplin Doriga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Hiri Hiri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Hiri Hiri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Lega Siaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Lega Siaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Tony Ura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Tony Ura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Charles Amini
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Charles Amini
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Jason Kila
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Gaudi Toka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Kabua Morea
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Kabua Morea
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Nosaina Pokana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Damien Ravu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Chad Soper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Chad Soper
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2021.0,Norman Vanua
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Norman Vanua
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Hila Vare
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Jack Gardner
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Semo Kamea
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,John Kariko
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea,2024.0,Alei Nao
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Ryan Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Ryan Watson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Gavin Hamilton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Gavin Hamilton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Gregor Maiden
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Neil McCallum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Neil McCallum
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Navdeep Poonia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Navdeep Poonia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Qasim Sheikh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Colin Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Colin Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Fraser Watts
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Fraser Watts
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,John Blain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Dougie Brown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Gordon Drummond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Gordon Drummond
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Majid Haq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Majid Haq
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Dewald Nel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Dewald Nel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Craig Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Craig Wright
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2007.0,Ross Lyons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Richie Berrington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Richie Berrington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Richie Berrington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Richie Berrington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Richie Berrington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Kyle Coetzer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Kyle Coetzer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Kyle Coetzer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Calum MacLeod
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Calum MacLeod
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Calum MacLeod
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Calum MacLeod
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Glenn Rogers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2009.0,Jan Stander
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Preston Mommsen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Matthew Cross
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Matthew Cross
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Matthew Cross
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Matthew Cross
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Matt Machan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,George Munsey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,George Munsey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,George Munsey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,George Munsey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Con de Lange
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Michael Leask
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Michael Leask
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Michael Leask
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Michael Leask
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Rob Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Josh Davey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Josh Davey
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Alasdair Evans
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Alasdair Evans
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Gavin Main
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Safyaan Sharif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Safyaan Sharif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Safyaan Sharif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Safyaan Sharif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2016.0,Mark Watt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Mark Watt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Mark Watt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Mark Watt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Michael Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Michael Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Michael Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Craig Wallace
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Craig Wallace
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Dylan Budge
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Chris Greaves
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Chris Greaves
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Chris Greaves
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Hamza Tahir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Hamza Tahir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2021.0,Brad Wheal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Brad Wheal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Brad Wheal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Brandon McMullen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Brandon McMullen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2022.0,Chris Sole
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Chris Sole
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Ollie Hairs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Charlie Tear
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Brad Currie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scotland,2024.0,Jack Jarvis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Graeme Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Graeme Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Graeme Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Gulam Bodi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Mark Boucher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Mark Boucher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Mark Boucher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,AB de Villiers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Herschelle Gibbs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Herschelle Gibbs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Herschelle Gibbs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Jean-Paul Duminy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Justin Kemp
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Albie Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Albie Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Albie Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Albie Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Albie Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Vernon Philander
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Shaun Pollock
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Johan van der Wath
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Morne Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Morne Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Morne Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Morne Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Morne Morkel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Andre Nel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Makhaya Ntini
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2007.0,Thandi Tshabalala
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Johan Botha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Johan Botha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Johan Botha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Jacques Kallis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Jacques Kallis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Jacques Kallis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Justin Ontong
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Justin Ontong
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Yusuf Abdulla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Wayne Parnell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Wayne Parnell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Wayne Parnell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Wayne Parnell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Robin Peterson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Robin Peterson
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2009.0,Dale Steyn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Dale Steyn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Dale Steyn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Dale Steyn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Dale Steyn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Loots Bosman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Rory Kleinveldt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Charl Langeveldt
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2010.0,Rusty Theron
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Hashim Amla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Hashim Amla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Hashim Amla
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Faf du Plessis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Faf du Plessis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Faf du Plessis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Richard Levi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Farhaan Behardien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Farhaan Behardien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Farhaan Behardien
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2012.0,Lonwabo Tsotsobe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Lonwabo Tsotsobe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Beuran Hendricks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Imran Tahir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Imran Tahir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2014.0,Aaron Phangiso
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Aaron Phangiso
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Rilee Rossouw
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Rilee Rossouw
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Chris Morris
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2016.0,Kyle Abbott
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Temba Bavuma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Temba Bavuma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Reeza Hendricks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Reeza Hendricks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Reeza Hendricks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Aiden Markram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Aiden Markram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Aiden Markram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Rassie van der Dussen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Wiaan Mulder
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Dwaine Pretorius
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Bjorn Fortuin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Bjorn Fortuin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2021.0,Lungi Ngidi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Lungi Ngidi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2022.0,Tristan Stubbs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Tristan Stubbs
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Ryan Rickelton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Marco Jansen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Ottneil Baartman
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South Africa,2024.0,Gerald Coetzee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Mahela Jayawardene
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Mahela Jayawardene
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Mahela Jayawardene
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Mahela Jayawardene
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Mahela Jayawardene
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Kumar Sangakkara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Kumar Sangakkara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Kumar Sangakkara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Kumar Sangakkara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Kumar Sangakkara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Chamara Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Chamara Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Upul Tharanga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Tillakaratne Dilshan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Hasantha Fernando
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Sanath Jayasuriya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Sanath Jayasuriya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Sanath Jayasuriya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Kaushal Lokuarachchi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Farveez Maharoof
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Farveez Maharoof
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Jehan Mubarak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Jehan Mubarak
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Dilruwan Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Gayan Wijekoon
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Dilhara Fernando
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Lasith Malinga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Lasith Malinga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Lasith Malinga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Lasith Malinga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Lasith Malinga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2007.0,Chaminda Vaas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Angelo Mathews
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Isuru Udana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Muthiah Muralidaran
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Nuwan Kulasekara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Nuwan Kulasekara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Nuwan Kulasekara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Nuwan Kulasekara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Nuwan Kulasekara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Ajantha Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Ajantha Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Ajantha Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Ajantha Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Thilan Thushara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Thilan Thushara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2009.0,Indika de Saram
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Dinesh Chandimal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Dinesh Chandimal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Dinesh Chandimal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Dinesh Chandimal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Dinesh Chandimal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Chamara Kapugedera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Chamara Kapugedera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Chinthaka Jayasinghe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Thisara Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Thisara Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Thisara Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Thisara Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Suraj Randiv
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2010.0,Chanaka Welegedara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Dilshan Munaweera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Lahiru Thirimanne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Lahiru Thirimanne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Lahiru Thirimanne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Akila Dananjaya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Akila Dananjaya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Jeevan Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Shaminda Eranga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2012.0,Rangana Herath
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Rangana Herath
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Rangana Herath
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Kusal Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Kusal Perera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Seekkuge Prasanna
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Suranga Lakmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Suranga Lakmal
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2014.0,Sachithra Senanayake
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Sachithra Senanayake
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Shehan Jayasuriya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Dasun Shanaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Dasun Shanaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Dasun Shanaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Dasun Shanaka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Milinda Siriwardana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Dushmantha Chameera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Dushmantha Chameera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Dushmantha Chameera
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2016.0,Jeffrey Vandersay
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Jeffrey Vandersay
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Avishka Fernando
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Pathum Nissanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Pathum Nissanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Pathum Nissanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Bhanuka Rajapaksa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Bhanuka Rajapaksa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Charith Asalanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Charith Asalanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Charith Asalanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Dhananjaya de Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Dhananjaya de Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Dhananjaya de Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Chamika Karunaratne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Chamika Karunaratne
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Binura Fernando
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Lahiru Kumara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Lahiru Kumara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2021.0,Maheesh Theekshana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Maheesh Theekshana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Maheesh Theekshana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Ashen Bandara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Kusal Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Kusal Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Asitha Fernando
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2022.0,Kasun Rajitha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Sadeera Samarawickrama
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Wanindu Hasaranga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Kamindu Mendis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Dilshan Madushanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Matheesha Pathirana
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Nuwan Thushara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka,2024.0,Dunith Wellalage
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Khurram Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Amjad Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Faizan Asif
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Swapnil Patil
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Rohan Mustafa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Shaiman Anwar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Vikrant Shetty
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Amjad Javed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Ahmed Raza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Ahmed Raza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Manjula Guruge
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Kamran Shazad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Sharif Asadullah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Shadeep Silva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Moaaz Qazi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2014.0,Rohit Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,CP Rizwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Vriitya Aravind
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Basil Hameed
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Chirag Suri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Muhammad Waseem
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Alishan Sharafu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Aayan Afzal Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Fahad Nawaz
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Kashif Daud
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Aryan Lakra
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Junaid Siddique
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Karthik Meiyappan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Sabir Ali
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates,2022.0,Zahoor Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Fred Achelam
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Roger Mukasa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Robinson Obuya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Ronak Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Simon Ssesazi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Riazat Ali Shah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Dinesh Nakrani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Frank Nsubuga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Alpesh Ramjani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Kenneth Waiswa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Brian Masaba
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Bilal Hassan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Cosmas Kyewuta
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Juma Miyagi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uganda,2024.0,Henry Ssenyondo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Monank Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Aaron Jones
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Nitish Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Shayan Jahangir
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Steven Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Harmeet Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Milind Kumar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Nisarg Patel
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Shadley van Schalkwyk
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Ali Khan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Jasdeep Singh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Nosthush Kenjige
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,United States of America,2024.0,Saurabh Netravalkar
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Ramnaresh Sarwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Ramnaresh Sarwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Ramnaresh Sarwan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Shivnarine Chanderpaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Shivnarine Chanderpaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Shivnarine Chanderpaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Narsingh Deonarine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Narsingh Deonarine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Runako Morton
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Denesh Ramdin
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Marlon Samuels
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Marlon Samuels
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Marlon Samuels
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Marlon Samuels
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Devon Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Dwayne Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Chris Gayle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Daren Sammy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Dwayne Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Dwayne Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Dwayne Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Pedro Collins
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Fidel Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Fidel Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Fidel Edwards
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Daren Powell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2007.0,Ravi Rampaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Ravi Rampaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Ravi Rampaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Ravi Rampaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Ravi Rampaul
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Andre Fletcher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Andre Fletcher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Andre Fletcher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Andre Fletcher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Xavier Marshall
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Lendl Simmons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Lendl Simmons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Lendl Simmons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Lendl Simmons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Lendl Simmons
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Kieron Pollard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Kieron Pollard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Kieron Pollard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Kieron Pollard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Lionel Baker
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Sulieman Benn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Sulieman Benn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Sulieman Benn
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,Jerome Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Jerome Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Jerome Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2009.0,David Bernard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Wavell Hinds
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Nikita Miller
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2010.0,Kemar Roach
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Darren Bravo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Johnson Charles
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Johnson Charles
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Johnson Charles
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Johnson Charles
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Johnson Charles
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Sunil Narine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Sunil Narine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2012.0,Samuel Badree
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Samuel Badree
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Samuel Badree
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Sheldon Cottrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Sheldon Cottrell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2014.0,Krishmar Santokie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Evin Lewis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Evin Lewis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Evin Lewis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Carlos Brathwaite
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Jason Holder
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Jason Holder
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Jason Holder
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2016.0,Ashley Nurse
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Shimron Hetmyer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Shimron Hetmyer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Roston Chase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Roston Chase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Akeal Hosein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Akeal Hosein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Akeal Hosein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Oshane Thomas
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2021.0,Hayden Walsh
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Rovman Powell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Rovman Powell
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Shamarh Brooks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Brandon King
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Kyle Mayers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Kyle Mayers
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Raymon Reifer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Odean Smith
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Yannic Cariah
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2022.0,Obed McCoy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Obed McCoy
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Shai Hope
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Sherfane Rutherford
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Romario Shepherd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Shamar Joseph
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Indies,2024.0,Gudakesh Motie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Chamu Chibhabha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Chamu Chibhabha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Chamu Chibhabha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Timycen Maruma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Timycen Maruma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Timycen Maruma
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Hamilton Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Hamilton Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Hamilton Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Hamilton Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Hamilton Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Stuart Matsikenyeri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Stuart Matsikenyeri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Vusi Sibanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Vusi Sibanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Vusi Sibanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Vusi Sibanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Vusi Sibanda
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Tatenda Taibu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Tatenda Taibu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Brendan Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Brendan Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Brendan Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Brendan Taylor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Sean Williams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Sean Williams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Sean Williams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Sean Williams
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Elton Chigumbura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Elton Chigumbura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Elton Chigumbura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Elton Chigumbura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Elton Chigumbura
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Keith Dabengwa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Prosper Utseya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Prosper Utseya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Prosper Utseya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Prosper Utseya
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Gary Brent
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Chris Mpofu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Chris Mpofu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Chris Mpofu
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Tawanda Mupariwa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Tawanda Mupariwa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2007.0,Johnson Marumisa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Charles Coventry
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Craig Ervine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Craig Ervine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Craig Ervine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Andy Blignaut
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Greg Lamb
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Graeme Cremer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Graeme Cremer
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2010.0,Ray Price
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Ray Price
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Forster Mutizwa
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Malcolm Waller
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Malcolm Waller
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Malcolm Waller
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Kyle Jarvis
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Brian Vitori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Brian Vitori
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2012.0,Richard Muzhange
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Tafadzwa Kamungozi
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Sikandar Raza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Sikandar Raza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Sikandar Raza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Tendai Chatara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Tendai Chatara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Tendai Chatara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Shingi Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Natsai M'shangwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2014.0,Tinashe Panyangara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Tinashe Panyangara
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Peter Moor
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Richmond Mutumbami
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Tendai Chisoro
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Wellington Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Wellington Masakadza
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2016.0,Donald Tiripano
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Regis Chakabva
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Clive Madande
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Milton Shumba
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Ryan Burl
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Brad Evans
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Luke Jongwe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Wessly Madhevere
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Tony Munyonga
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Blessing Muzarabani
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zimbabwe,2022.0,Richard Ngarava
